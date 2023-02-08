@@ -41,8 +41,7 @@ end
 # Uncomment the following line if you're running Rails
 # on a native Windows system:
 # gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-gem "ruby-lsp", "~> 0.3.8", group: :development
 
-gem "dockerfile-rails", ">= 1.0", :group => :development
+gem "dockerfile-rails", ">= 1.0", group: :development
 
 gem "redis", "~> 5.0"
